@@ -1,0 +1,13 @@
+CPAN_AUTHOR="mattn"
+inherit perl
+
+NAME="perl-Devel-CheckLib"
+VERSION=1.03
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl distribution Devel-CheckLib"
+DESCRIPTION="This module provides a way of checking whether a particular library
+and its headers are available, by attempting to compile a simple program and
+link against it."
+
+ARCH=noarch
